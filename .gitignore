@@ -1,0 +1,15 @@
+# Objetos y binarios
+build/
+*.o
+parser
+
+# Temporales y preprocesados
+*.pre
+*.tmp
+tests/*.pre
+
+# Empaquetado
+*.tgz
+
+# Editor
+.vscode/
